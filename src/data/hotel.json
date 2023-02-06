@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Voyage Hotel",
+    "rate": 9.7,
+    "createdDate": "2023-01-03T18:49:13.549Z",
+    "updatedDate": ""
+  },
+  {
+    "id": 2,
+    "title": "Maxx Royal Hotel",
+    "rate": 8.3,
+    "createdDate": "2023-01-04T18:49:13.549Z",
+    "updatedDate": ""
+  },
+  {
+    "id": 3,
+    "title": "Voyage Hotel",
+    "rate": 7.5,
+    "createdDate": "2023-02-01T18:49:13.549Z",
+    "updatedDate": ""
+  },
+  {
+    "id": 4,
+    "title": "Titanic Hotel",
+    "rate": 4.7,
+    "createdDate": "2022-06-06T18:49:13.549Z",
+    "updatedDate": ""
+  },
+  {
+    "id": 5,
+    "title": "Gloria Verde Hotel",
+    "rate": 9.2,
+    "createdDate": "2023-01-02T18:49:13.549Z",
+    "updatedDate": ""
+  }
+]
